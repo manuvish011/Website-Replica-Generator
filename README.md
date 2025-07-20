@@ -6,7 +6,7 @@ Imagine capturing an entire website — styles, images, and structure — into a
 
 🔗 [Live Demo](https://website-replica-generator.netlify.app/)
 
----
+
 
 ## ✨ Features at a Glance
 
@@ -17,11 +17,10 @@ Imagine capturing an entire website — styles, images, and structure — into a
 ✅ Fully client-side — your data stays in your browser  
 ✅ No frameworks, no installations — just open and use
 
----
+
 
 ## 📸 Visual Walkthrough
 
-```plaintext
 +--------------------------------------------------------+
 |              🌐 Website Replica Generator              |
 +--------------------------------------------------------+
@@ -33,9 +32,7 @@ Imagine capturing an entire website — styles, images, and structure — into a
 | ✅ All assets fetched!                                 |
 | ⬇️ Download ZIP button appears                         |
 +--------------------------------------------------------+
-````
 
----
 
 ## 🎯 Use Cases
 
@@ -45,7 +42,7 @@ Imagine capturing an entire website — styles, images, and structure — into a
 * 💡 **Inspiration Toolkit** — Collect designs, layouts, and UI references for later
 * 🧪 **Testing & Experimenting** — See how pages behave in local or sandboxed environments
 
----
+
 
 ## 🧠 How It Works (Under the Hood)
 
@@ -76,14 +73,14 @@ Imagine capturing an entire website — styles, images, and structure — into a
 
 * Uses [JSZip](https://stuk.github.io/jszip/) to create a structured `.zip` file:
 
-  ```
+  
   /index.html
   /images/
   /styles/
   ```
 * ZIP is auto-triggered for download via Blob URLs.
 
----
+
 
 ## 🛠️ Built With
 
@@ -93,7 +90,7 @@ Imagine capturing an entire website — styles, images, and structure — into a
 * **FileSaver.js** (optional) – Save Blob to local system
 * **Flexbox + Media Queries** – Responsive and minimal UI design
 
----
+
 
 ## 🚀 Getting Started Locally
 
@@ -106,13 +103,13 @@ cd website-replica-generator
 
 # Open in your browser
 open index.html  # or manually double-click the file
-```
+
 
 ✅ No build step
 ✅ No server required
 ✅ Just HTML + JS in a browser
 
----
+
 
 ## 🧩 Feature Ideas (Coming Soon / Contributions Welcome)
 
@@ -123,7 +120,7 @@ open index.html  # or manually double-click the file
 * [ ] Progress bar with asset count
 * [ ] Site preview pane before download
 
----
+
 
 ## 🤝 Contributing
 
@@ -137,13 +134,13 @@ Contributions are more than welcome!
 
 If you’d like to suggest features or report bugs, open an issue!
 
----
+
 
 ## 📄 License
 
 This project is licensed under the **MIT License** — use it freely in commercial and personal projects.
 
----
+
 
 ## 🙌 Acknowledgments
 
@@ -151,7 +148,7 @@ This project is licensed under the **MIT License** — use it freely in commerci
 * [MDN Web Docs](https://developer.mozilla.org/) for all the browser API guidance
 * Inspiration from tools like HTTrack, but with a browser-only twist
 
----
+
 
 ## 🚧 Limitations
 
@@ -162,7 +159,7 @@ This project is licensed under the **MIT License** — use it freely in commerci
 * Backend scripts (PHP, Node, Python, etc.)
 * Third-party iframes or cross-origin data (CORS restrictions apply)
 
----
+
 
 ## 🔥 Example Workflow
 
@@ -173,7 +170,7 @@ This project is licensed under the **MIT License** — use it freely in commerci
 5. Hit **Download ZIP**
 6. Open `index.html` locally — voilà! Offline website replica ✨
 
----
+
 
 ## 📬 Contact
 
@@ -182,11 +179,11 @@ Have feedback, suggestions, or want to collaborate?
 📧 Reach out via GitHub Issues or discussions
 🚀 Follow me on [GitHub](https://github.com/manuvish011) for more open-source tools
 
----
+
 
 > 💡 *“Sometimes the best dev tools are the ones that save time, not just build code.”*
 
-```
+
 
 ---
 
