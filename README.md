@@ -96,7 +96,7 @@ Imagine capturing an entire website — styles, images, and structure — into a
 
 Want to run it offline or modify it?
 
-```bash
+bash
 # Clone the repository
 git clone https://github.com/your-username/website-replica-generator.git
 cd website-replica-generator
